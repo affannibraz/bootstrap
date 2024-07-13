@@ -513,3 +513,10 @@ body.dark .search-field i{
     background-color: grey;
     color: white;
   }
+@media(max-width:320px){
+  .explore-button {
+    width: 289px;
+    background-color: #007bff;
+    color: white;
+}
+}
